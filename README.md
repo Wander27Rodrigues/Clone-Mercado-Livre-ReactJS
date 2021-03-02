@@ -21,18 +21,18 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Este é um exemplo de como listar coisas que você precisa usar o software e como instalá-las.
 
 ## Yarn
-Instale o yarn
+Instale o yarn :arrow_down:
 ``` 
 npm install --global yarn 
 ```
-### Instalação
+### Instalação :arrow_down:
 Clone o repositorio
 
 ```
 git clone https://github.com/Wander27Rodrigues/Clone-Mercado-Livre-ReactJS.git
 ```
 
-## Depedências
+## Depedências :arrow_down:
 Caso não seja instalado todas as depedências excute o comando ☻:
 ```
 yarn add typescript @types/react @types/react-dom @types/node
