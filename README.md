@@ -37,7 +37,7 @@ Caso não seja instalado todas as depedências excute o comando ☻:
 ```
 yarn add typescript @types/react @types/react-dom @types/node
 ```
-:computer: ## Rodando a Aplicação
+## Rodando a Aplicação :computer: 
 
 Em seguida excute o comando
 ``` 
