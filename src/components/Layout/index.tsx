@@ -1,18 +1,18 @@
 import React from 'react';
 import Header from '../Header';
-
-import { Container } from './styles';
+import Product from '../Product';
+import { Container, Wrapper } from './styles';
 
 const Layout: React.FC = () => {
   return (
     <Container>
-      <Header />
+      {/* <Header /> */}
 
       <Wrapper>
-        <Product />
+        <Product/>
       </Wrapper>
 
-    <Footer />
+    {/* <Footer /> */}
 
     </Container>
   );
