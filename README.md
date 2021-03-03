@@ -10,6 +10,13 @@
   <img alt="Clone-Mercado-livre" src=".github/mercado-livre.png" width="100%">
 </p>
 
+## Features
+
+- [x] Estrutura do Projeto
+- [x] Criação de Grid
+- [ ] Criação de styles.css
+
+
 # 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
