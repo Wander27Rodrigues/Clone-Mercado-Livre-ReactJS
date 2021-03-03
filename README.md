@@ -19,10 +19,11 @@
 
 # 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+As seguintes ferramentas foram usadas na construção do projeto:
 
-- CSS
-- TypeScript
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+
 
 ## Pré-requisitos
 Este é um exemplo de como listar coisas que você precisa usar o software e como instalá-las.
