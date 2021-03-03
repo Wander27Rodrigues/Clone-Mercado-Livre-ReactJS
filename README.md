@@ -25,14 +25,14 @@ Instale o yarn :arrow_down:
 ``` 
 npm install --global yarn 
 ```
-### Instalação :arrow_down:
+### Instalação :arrow_down: :arrow_down:
 Clone o repositorio
 
 ```
 git clone https://github.com/Wander27Rodrigues/Clone-Mercado-Livre-ReactJS.git
 ```
 
-## Depedências :arrow_down:
+## Depedências :arrow_down: :arrow_down: :arrow_down:
 Caso não seja instalado todas as depedências excute o comando ☻:
 ```
 yarn add typescript @types/react @types/react-dom @types/node
