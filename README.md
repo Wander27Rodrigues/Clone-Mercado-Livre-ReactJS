@@ -52,7 +52,7 @@ npm install --global yarn
 ```
 yarn add typescript @types/react @types/react-dom @types/node
 ```
-## Rodando a Aplicação 
+## Rodando a Aplicação :arrows_counterclockwise:
 
 ``` 
 npm start 
