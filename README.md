@@ -27,24 +27,28 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
-
+- [TypeScript](https://www.typescriptlang.org/)
 
 ## Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [React](https://pt-br.reactjs.org/).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-## Clone o repositorio
+## Clone o repositorio 
 ```
 git clone https://github.com/Wander27Rodrigues/Clone-Mercado-Livre-ReactJS.git
 ```
-## Acesse a pasta do projeto no terminal/cmd
+## Acesse a pasta do projeto no terminal/cmd :file_folder:
 ```
 cd Clone-Mercado-Livre-Reactjs
 ```
 ## Instale as dependências :arrow_down: 
 
-yarn 
+NPM
+``` 
+npm install npm@latest -g
+``` 
+YARN
 ``` 
 npm install --global yarn 
 ```
@@ -63,5 +67,5 @@ yarn start
 ```
 Copie o endereço (http://localhost:3000) e cole no seu navegador.
 
-# E agora vamos codar!! :computer: 
+# E agora vamos codar!! :computer: 🚀
 
