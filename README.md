@@ -16,7 +16,6 @@
 - [x] Criação de Grid
 - [ ] Criação de styles.css
 
-
 # 🚀 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -26,22 +25,25 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 ## Pré-requisitos
-Este é um exemplo de como listar coisas que você precisa usar o software e como instalá-las.
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-## Yarn
-Instale o yarn :arrow_down:
-``` 
-npm install --global yarn 
-```
-### Instalação :arrow_down: :arrow_down:
 Clone o repositorio
-
 ```
 git clone https://github.com/Wander27Rodrigues/Clone-Mercado-Livre-ReactJS.git
 ```
+# Acesse a pasta do projeto no terminal/cmd
+```
+cd Clone-Mercado-Livre-Reactjs
+```
+# Instale as dependências :arrow_down: 
 
+yarn :arrow_down: :arrow_down:
+``` 
+npm install --global yarn 
+```
 ## Depedências :arrow_down: :arrow_down: :arrow_down:
-Caso não seja instalado todas as depedências excute o comando ☻:
 ```
 yarn add typescript @types/react @types/react-dom @types/node
 ```
@@ -50,8 +52,12 @@ yarn add typescript @types/react @types/react-dom @types/node
 Em seguida excute o comando
 ``` 
 npm start 
-ou 
+```
+OR
+```
 yarn start 
 ```
 Copie o endereço (http://localhost:3000) e cole no seu navegador.
+
+E agora vamos codar!!
 
