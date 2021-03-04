@@ -9,7 +9,7 @@ import { Container,
          Gallery, 
          Section, 
          Description,
-       } from '../Product/styles.module.css';
+       } from './styles';
 
 const Product: React.FC = () => {
   return (
