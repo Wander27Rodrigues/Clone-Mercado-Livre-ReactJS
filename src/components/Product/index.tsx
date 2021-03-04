@@ -73,9 +73,9 @@ const Info = () => (
       <br />
       llllllllllllllllllllllllllll
       llllllllllllllllllllllllllll
+      <br />      
+      Itens inclusos:
       <br />
-      <br />
-      Itens inclusos:<br />
       -1x <br />
       -2x <br />
       -3x <br />
