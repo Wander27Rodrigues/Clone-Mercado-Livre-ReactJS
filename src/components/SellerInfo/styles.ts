@@ -69,20 +69,28 @@ export const ReputationRow = styled.div`
         > strong {
             font-size: 24px;
             font-weight: normal;
-            height:30px;
+            height: 30px;
+            width: 20px;
         }
         > span {
             font-size: 12px;
+            text-aling: center;                        
         }
-    }
 
-    position: relative;
+        position: relative;
 
     & + div {
         &::before {
-            
+            content:'';
+            position: absolute;
+            left: 0;
+            top: 50%;
+            transform: translateY(-50%);
+            height: 36px;
+            border-left: 1px solid var(--color-border);
         }
-    }
+    }    
+}
 `;
 
 export const ReputationThermomete = styled.ol`
