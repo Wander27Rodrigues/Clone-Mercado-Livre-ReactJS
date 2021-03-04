@@ -1,6 +1,7 @@
 import React from 'react';
 import styles from '../Product/styles.module.css';
 import tshirtImage from '../../assets/tshirt.png';
+import SellerInfo from '../SellerInfo';
 
 import { Container, 
          Row, 
@@ -29,8 +30,8 @@ const Product: React.FC = () => {
         </Column>
 
         <Column>
-          {/* <ProductAction />
-          <SellerInfo /> */}
+          {/* {/* <ProductAction /> */}
+          <SellerInfo />
 
 
           <WarrantySection />
@@ -58,6 +59,8 @@ const WarrantySection = () => (
           <p className="description">sem garantia</p>
         </span>
       </div>
+
+      <a href="#">Saiba mais sobre a garantia</a>
     </Section>
 )
 
@@ -68,7 +71,6 @@ const Info = () => (
       <p>llllllllllllllllllllllll
         lllllllllllllllllllllllll
       <br />
-      <br />
       llllllllllllllllllllllllllll
       llllllllllllllllllllllllllll
       <br />
@@ -78,6 +80,8 @@ const Info = () => (
       -2x <br />
       -3x <br />
       <br />
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed plane dicit quod intellegit. Hoc não est positum em nostra actione. Duo Reges: constructio interrete. Inde sermone vario sex illa a Dipylo stadia confecimus. Si autem id non concedatur, non continuamente vita beata tollitur. Duarum enim vitarum nobis erunt instituta capienda. Atque ab his initiis profecti omnium virtutum et originem et progressionem persecuti sunt. Audeo dicere, injusto.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed plane dicit quod intellegit. Hoc não est positum em nostra actione. Duo Reges: constructio interrete. Inde sermone vario sex illa a Dipylo stadia confecimus. Si autem id non concedatur, non continuamente vita beata tollitur. Duarum enim vitarum nobis erunt instituta capienda. Atque ab his initiis profecti omnium virtutum et originem et progressionem persecuti sunt. Audeo dicere, injusto.
       </p>
 
 

@@ -12,7 +12,7 @@ export const Row = styled.div`
     padding: 16px 0;
 
     > a {
-        font-size: 14px;
+        font-size: 0.9rem;
         text-decoration:none;
         color: var(--color-blue);
         padding: 2.5px 0;
@@ -25,18 +25,18 @@ export const Row = styled.div`
     }
 `; 
     
-export const Panel = styled.div`
+export const Panel = styled.div`    
     background: var(--color-white);
     box-shadow: var(--panel-shadow);
 
     display: grid;
-    grid-template-columns: 65fr 35fr;
+    grid-template-columns: 67fr 33fr;
 
 `; 
 
 export const Column = styled.div`
     &:first-child {
-        border-right: 1px solid var(--color-border);
+        border-right: 0.1rem solid var(--color-border);
     }
 `; 
 
@@ -44,15 +44,64 @@ export const Gallery = styled.div`
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 530px;
+    height: 22rem;
 
     >img {
         height: 70%;
     }
 `;
 
-export const Section = styled.div``;
+export const Section = styled.div`
+    border-top: 1px solid var(--color-border);
+    padding: 2rem 1rem;
 
-export const Description = styled.div``;
+    display: flex;
+    flex-direction: column;
+
+    > h4 {
+        font-size: 1.1rem;
+        margin-bottom: 1rem;
+    }
+    
+    > div {
+        display: flex;
+        flex-direction: column;
+
+        > span + span {
+            margin-top: 2rem;
+        }
+        .title {
+            font-size: 6rem;
+        }
+        .description {
+            margin-top: 0.7rem;
+            font-size: 1rem;
+            color: var(--color-gray);
+            line-height: 1.2rem;
+        }
+    }
+    > a {
+        margin-top: 1rem;
+        font-size: 1rem;
+        font-weight: 700;
+        color: var(--color-blue);
+        text-decoration: none;
+    }        
+`;
+
+export const Description = styled.div`
+       border-top: 1rem solid var(--color-borde);
+       padding: 1rem 2rem;
+
+       > h2 {
+           font-size: 1.7rem;
+           margin-bottom: 2rem;
+       }
+       > p {
+           font-size: 0.9rem;
+           color: var(--color-gray);
+           line-height: 27px;
+       }
+`;
 
 
