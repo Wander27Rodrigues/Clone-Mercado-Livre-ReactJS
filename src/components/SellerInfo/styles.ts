@@ -128,8 +128,18 @@ export const ReputationThermomete = styled.ol`
     }
 `;
 
-export const SupportIcon = styled(HiOutlineChatAlt2)`${iconCSS}`;
+export const SupportIcon = styled(HiOutlineChatAlt2)`
+    ${iconCSS}
+`;
 
-export const ClockIcon = styled(HiOutlineClock)`${iconCSS}`;
+export const ClockIcon = styled(HiOutlineClock)`
+    ${iconCSS}
+`;
 
-export const More = styled.a``;
+export const More = styled.a`
+    margin-top: 24px;
+    color: var(--color-blue);
+    font-size: 14px;
+    font-weigth: 600;
+    text-decoration: none;
+`;
