@@ -13,11 +13,6 @@ UI Clone (Sale Page) - Mercado Livre
 
 <hr>
 
-## Participants
-
-[<img src="https://avatars3.githubusercontent.com/u/10366880?s=460&v=4" width="75px;"/>](https://github.com/guilhermerodz)
-
-[Guilherme Rodz](https://github.com/guilhermerodz)
 
 ## Techs
 
