@@ -14,7 +14,6 @@ UI Clone (Sale Page) - Mercado Livre
 - [ ] Styles
 
 <p align="center">Mercado Livre (Sale Page) UI clone for study purposes.</p>
-<p align="center">Click <a href="https://www.youtube.com/watch?v=APs_xQ2hUOE">here</a> to the video.</p>
 
 <p align="center">
   <a href="https://github.com/rocketseat-content/youtube-clone-mercadolivre/graphs/contributors">
